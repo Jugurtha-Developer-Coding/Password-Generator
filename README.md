@@ -1,1 +1,1 @@
-# 🚀 developer-journey
+# 🚀 Password Generator 
